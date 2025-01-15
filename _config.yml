@@ -5,5 +5,8 @@ theme: just-the-docs
 url: https://nightmarexivtest.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Discord: https://discord.gg/m8NRt4X8Gf
+  Patreon: https://www.patreon.com/NightmareXIV
 
+search_enabled: false
+color_scheme: dark

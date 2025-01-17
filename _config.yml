@@ -10,3 +10,8 @@ aux_links:
 
 search_enabled: false
 color_scheme: dark
+
+callouts:
+  warning:
+    title: Warning
+    color: red

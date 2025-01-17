@@ -27,3 +27,10 @@ It will be up to you: you can distribute it publicly or privately; you can send 
 
 ## Limitations
 There will be only one limitation - you can not use commissioned plugin commercially, which means that you can not sell the plugin or access to it for real money or use it in any direct or indirect way to generate real money income. However, if you want to use the plugin commercially - it is possible for an extra pay; read more about commercial use here.
+
+## Not a plugin
+Besides plugin commissions, I can also offer the following services:
+- Development of an arbitrary standalone desktop or server .NET application
+- Modifying existing plugin (if it's license allows it)
+
+Read more about extra services here.

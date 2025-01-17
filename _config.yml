@@ -1,5 +1,5 @@
 title: NightmareXIV
-description: Game plugins and commissions
+description: Plugin commissions
 theme: just-the-docs
 
 url: https://nightmarexivtest.github.io
@@ -11,7 +11,30 @@ aux_links:
 search_enabled: false
 color_scheme: dark
 
+defaults:
+  - scope:
+      path: "pages" # an empty string here means all files in the project
+
+callouts_level: quiet # or loud
 callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  note:
+    title: Note
+    color: purple
   warning:
     title: Warning
     color: red
+  normal:
+    title: Normal
+    color: green
+  congested:
+    title: Congested
+    color: yellow
+  closed:
+    title: Closed
+    color: red
+    

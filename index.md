@@ -3,8 +3,6 @@ title: Home
 layout: home
 nav_order: 1
 ---
-
-# NightmareXIV Plugin Commissions
 Welcome to NightmareXIV! I'm happy to announce official launch of plugin commissions. I've been doing them privately here and there, but now everyone can have a plugin made specially for them - and for an affordable price. 
 
 ## Why choose NightmareXIV

@@ -15,18 +15,21 @@ Welcome to NightmareXIV! I'm happy to announce official launch of plugin commiss
 - Minimal price is 100 USD;
 - Most of the plugins end up in range of 200 to 400 USD;
 - Contact me via Discord if you would like to receive an exact offer;
-- Read about supported payment methods and on how to keep the cost of the plugin low here.
+
+Read about supported payment methods and on how to keep the cost of the plugin low here.
 
 ## How long will it take?
 - General rule of thumb - 1 week for each 100 USD evaluated;
 - Contact me via Discord if you would like to receive an exact offer with price and time estimate;
-- Read more on deadlines and possible development pauses here.
+
+Read more on deadlines and possible development pauses here.
 
 ## What about updating the plugin? 
 - I provide one year of free updates for the plugin in the event it has been broken due to game or Dalamud update. 
 - After that, it will be no more than 10% of total plugin costs per update. 
-- You may subscribe to Total Nightmare or higher tier on my Patreon for free and prioritized updates. .
-- Read more about plugin update policy here.
+- You may subscribe to Total Nightmare or higher tier on my Patreon for free and prioritized updates.
+
+Read more about plugin update policy here.
 
 ## How can I distribute plugin?
 You can:
@@ -34,6 +37,7 @@ You can:
 - Distribute plugin privately to your friends or keep it for yourself;
 - Send it to official Dalamud repo or request me to do so;
 - Request me to publish it in NightmareXIV repo.
+
 Read more about distribution here.
 
 ## Additional free and paid services
@@ -43,10 +47,12 @@ Additional free and paid services that you may request together with the plugin 
 Besides plugin commissions, I can also offer the following services:
 - Development of an arbitrary standalone desktop or server .NET application
 - Modification of an existing plugin (if it's license allows it)
+
 Read more about extra services here.
 
 ## Commercial use
 Normally, you can not use commissioned work commercially. This means:
 - Directly or indirectly sell the plugin itself for real money;
 - Use the plugin to generate real money income.
+
 However, commercial license is available. Read more about commercial license here.

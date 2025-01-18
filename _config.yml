@@ -16,7 +16,7 @@ defaults:
       path: "" # an empty string here means all files in the project
       type: "pages"
     values:
-      layout: "home"
+      layout: "default"
 
 callouts_level: quiet # or loud
 callouts:

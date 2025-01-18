@@ -1,5 +1,6 @@
 ﻿---
 title: Pricing and Payments
+layout: page
 nav_order: 2
 ---
 ## Pricing

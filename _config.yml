@@ -13,10 +13,10 @@ color_scheme: dark
 
 defaults:
   - scope:
-      path: "docs" # an empty string here means all files in the project
+      path: "" # an empty string here means all files in the project
       type: "pages"
     values:
-      layout: "default"
+      layout: "home"
 
 callouts_level: quiet # or loud
 callouts:

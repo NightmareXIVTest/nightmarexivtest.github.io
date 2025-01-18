@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Summary
 layout: home
 nav_order: 1
 ---

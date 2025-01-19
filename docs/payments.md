@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pricing and Payments
 ---
 

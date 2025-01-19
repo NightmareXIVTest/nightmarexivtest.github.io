@@ -1,7 +1,5 @@
 ﻿---
 title: Pricing and Payments
-layout: page
-nav_order: 2
 ---
 ## Pricing
 The price depends on several factors, including
@@ -12,9 +10,9 @@ The price depends on several factors, including
 Please note that requesting additional features during or after development may increase the cost, so please describe all the features you want in your plugin to get the most accurate quote possible. 
 
 ### Pricing examples
-- **A microplugin** that does one or two simple things with little configuration and a simple UI will probably have a minimum price of $60. For example, plugins like ObjectExplorer, Mini or EnemyListHP.
-- **A relatively sophisticated plugin** with a modest amount of configuration and a decently complex UI will probably end up in the $200 to $450 range. Plugins like Weatherman, NotificationMaster, HuntTrainAssistant, TextAdvance would land in this price range.
-- **Multi-functional, complex plugins** like Lifestream, XIVInstantMessenger or AutoRetainer, as they are now, will easily go well over $500 and will require splitting the development process into several individual steps. Such plugins would be a multi-month commitment not only from the developer's side, but also from the requester's side.
+- **A microplugin** that does one or two simple things with little configuration and a simple UI will probably have a minimum price of 60 USD. For example, plugins like ObjectExplorer, Mini or EnemyListHP.
+- **A relatively sophisticated plugin** with a modest amount of configuration and a decently complex UI will probably end up in the 200 USD to 450 USD range. Plugins like Weatherman, NotificationMaster, HuntTrainAssistant, TextAdvance would land in this price range.
+- **Multi-functional, complex plugins** like Lifestream, XIVInstantMessenger or AutoRetainer, as they are now, will easily go well over 500 USD and will require splitting the development process into several individual steps. Such plugins would be a multi-month commitment not only from the developer's side, but also from the requester's side.
 
 ## How to keep the costs down
 Here are some important tips and tricks to keep the price of the plugin affordable:
@@ -75,7 +73,7 @@ I may ask you to delay the payment. It will not affect plugin development time.
 
 ### Contract
 - Available to Business Entities. An official contract is signed through a third party agency; you have the option to pay by credit card or bank transfer.
-- Currently available for orders of $500 USD or more.
+- Currently available for orders of 500 USD or more.
 
 ### Something else
 - If none of the following payment options apply to you, please contact me and we will explore other options.

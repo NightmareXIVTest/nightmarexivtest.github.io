@@ -24,7 +24,7 @@ callouts:
     color: yellow
   important:
     title: Important
-    color: blue
+    color: cyan
   note:
     title: Note
     color: purple

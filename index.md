@@ -12,12 +12,16 @@ Welcome to NightmareXIV! I'm happy to announce the official launch of plugin com
 - Fast updates and dedicated support server;
 - Full transparency - no tricks, no hidden fees, all terms are available on this website.
 
+## How do I place an order?
+- Join <a href="https://discord.gg/m8NRt4X8Gf" target="_blank">NightmareXIV Discord server</a> and either create a ticket or DM me with a brief description of your plugin idea.
+- If you do not have access to Discord, please <a href="https://github.com/NightmareXIV/MyDalamudPlugins/issues" target="_blank">open an issue here</a> and provide alternative methods of contact.
+
 ## How much does it cost? How can I pay for it?
 - The minimum price is 60 USD;
 - Most plugins end up in the range of 200 to 400 USD;
 - Contact me via Discord if you want to get an exact offer;
 
-Read about supported payment methods and how to keep the cost of the plugin low here.
+<a href="/docs/payments.html">Read about supported payment methods and how to keep the cost of the plugin low here.</a>
 
 ## How long will it take?
 - General rule of thumb - 1 week for every 100 USD valued;

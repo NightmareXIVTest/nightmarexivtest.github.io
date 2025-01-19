@@ -11,9 +11,9 @@ The price depends on several factors, including
 Please note that requesting additional features during or after development may increase the cost, so please describe all the features you want in your plugin to get the most accurate quote possible. 
 
 ### Pricing examples
-- **A microplugin** that does one or two simple things with little configuration and a simple UI will probably have a minimum price of 60 USD. For example, plugins like ObjectExplorer, Mini or EnemyListHP.
-- **A relatively sophisticated plugin** with a modest amount of configuration and a decently complex UI will probably end up in the 200 USD to 450 USD range. Plugins like Weatherman, NotificationMaster, HuntTrainAssistant, TextAdvance would land in this price range.
-- **Multi-functional, complex plugins** like Lifestream, XIVInstantMessenger or AutoRetainer, as they are now, will easily go well over 500 USD and will require splitting the development process into several individual steps. Such plugins would be a multi-month commitment not only from the developer's side, but also from the requester's side.
+- **A microplugin** that does one or two simple things with little configuration and a simple UI will probably have a minimum price of **60 USD**. For example, plugins like ObjectExplorer, Mini or EnemyListHP.
+- **A relatively sophisticated plugin** with a modest amount of configuration and a decently complex UI will probably end up in the **200 USD to 450 USD range**. Plugins like Weatherman, NotificationMaster, HuntTrainAssistant, TextAdvance would land in this price range.
+- **Multi-functional, complex plugins** like Lifestream, XIVInstantMessenger or AutoRetainer, as they are now, will easily go well over **500 USD** and will require splitting the development process into several individual steps. Such plugins would be a multi-month commitment not only from the developer's side, but also from the requester's side.
 
 ## How to keep the costs down
 Here are some important tips and tricks to keep the price of the plugin affordable:
@@ -24,37 +24,23 @@ Here are some important tips and tricks to keep the price of the plugin affordab
 - **Contact me.** In case nothing works out, we can try to work out an individual offer under individual conditions. 
 
 ## Supported payment systems
-- Cryptocurrency (BTC, LTC, USDT, USDC)
 
-10% discount
-{: .label .label-green }
-- PayPal
-
-Friends and Family
-{: .label .label-blue }
-- SWIFT/SEPA bank transfer
-
-Min. 200 USD
-{: .label .label-yellow }
-- Payoneer
-
-Min. 200 USD
-{: .label .label-yellow }
-- Skrill
-
-Min. 200 USD
-{: .label .label-yellow }
-- Contract 
-
-For Business Entities
-{: .label .label-bllue }
+| Payment system  | Min. payment          | Special note |
+|:----------------|:------------------|:------|
+| Cryptocurrency | Any | **10% Discount** |
+| PayPal | 20 USD | Friends and Family only |
+| SWIFT/SEPA bank transfer | 200 USD |  |
+| Payoneer | 200 USD |  |
+| Skrill | 200 USD |  |
+| Contract | 500 USD |  |
 
 Don't see a payment system you can use in the list? Please contact me and we will see if we can find something else.
-{: .warning }
-You may not use Patreon as a payment system for plugin commissions. Any custom payments that are made to Patreon will be treated as a voluntary donation.
 
-{: .important }
+You may not use Patreon as a payment system for plugin commissions. Any custom payments that are made to Patreon will be treated as a voluntary donation.
+{: .warning }
+
 All prices are specified in United States Dollar (USD). If you use another currency, please be mindful of currency conversion rates and fees for your bank and payment system. Please use the <a href="https://www.xe.com/currencyconverter/convert/" target="_blank">Xe Currenty Converter</a> to find out how much you will have to pay using a different currency.
+{: .important }
 
 ## Payment plans
 I offer the following payment plans:
@@ -62,8 +48,8 @@ I offer the following payment plans:
 - **Split payment.** Best used for large orders that can be divided into several logical steps. When using this payment plan, the cost of a plugin is divided into several parts, one of which must be paid in advance. As the development progresses, I will send you intermediate results and ask you to pay the next part. You will receive the source code of the plugin after the final payment.
 - **Payment after development.** Can be combined with split payment and is only available to regular customers. You will receive the source code after the final payment.
 
-{: .important }
 I may ask you to delay the payment. It will not affect plugin development time. 
+{: .important }
 
 ## Notes on individual payment methods
 ### Cryptocurrency
@@ -73,7 +59,7 @@ I may ask you to delay the payment. It will not affect plugin development time.
 - If you do not already have an account with a crypto exchange, prefer to choose one that is licensed in your country of residence, such as <a href="https://www.coinbase.com/legal/licenses" target="_blank">Coinbase</a>, <a href="https://www.binance.com/en/legal/licenses" target="_blank">Binance</a>, <a href="https://support.kraken.com/hc/en-us/articles/where-is-kraken-licensed-or-regulated" target="_blank">Kraken</a>, <a href="https://crypto.com/licenses" target="_blank">Crypto.com</a>.
 
 ### PayPal
-- Only Friends and Family transactions are supported. Note: Not all countries support Friends and Family transactions. If your country does not support it, you will not be able to use PayPal to pay for NightmareXIV services. 
+- **Only Friends and Family transactions are supported.** Note: Not all countries support Friends and Family transactions. If your country does not support it, you will not be able to use PayPal to pay for NightmareXIV services. 
 
 ### Payoneer, Skrill, SWIFT/SEPA
 - Currently available for orders of 200 USD or more.

@@ -25,21 +25,27 @@ Here are some important tips and tricks to keep the price of the plugin affordab
 
 ## Supported payment systems
 - Cryptocurrency (BTC, LTC, USDT, USDC)
+
 10% discount
 {: .label .label-green }
 - PayPal
+
 Friends and Family
 {: .label .label-blue }
 - SWIFT/SEPA bank transfer
+
 Min. 200 USD
 {: .label .label-yellow }
 - Payoneer
+
 Min. 200 USD
 {: .label .label-yellow }
 - Skrill
+
 Min. 200 USD
 {: .label .label-yellow }
 - Contract 
+
 For Business Entities
 {: .label .label-bllue }
 

@@ -1,6 +1,7 @@
 ﻿---
 title: Pricing and Payments
 ---
+
 ## Pricing
 The price depends on several factors, including
 - The features of the plugin itself;

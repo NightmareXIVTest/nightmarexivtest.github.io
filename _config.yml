@@ -41,3 +41,5 @@ callouts:
     title: Closed
     color: red
     
+plugins:
+  - jekyll-default-layout

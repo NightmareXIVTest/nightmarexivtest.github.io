@@ -2,17 +2,31 @@
 title: Update policy
 nav_order: 4
 ---
+# Update policy
 ## Free update period
-You will be provided with 1 year of free updates. These updates include:
-- Fixing the plugin due to technical game changes;
-- Fixing the plugin due to Dalamud or it's dependencies changes.
+You will receive 1 year of free updates. These updates include
+- Fixes to the plugin due to technical game changes;
+- Fixes to the plugin due to changes in Dalamud or it's dependencies.
 
-1 year starts the day after you receive the final plugin version. If, in future, you decide to commission an additional feature for the plugin, this free update period will begin anew starting from the day after you will receive the final plugin version with the commissioned feature completed, even if free update period has expired. Note that bugfixes and updates do not reset free update period.
+1 year starts the day after you receive the final version of the plugin. If you decide to request an additional feature for the plugin in the future, the free update period will start again from the day after you receive the final plugin version with the requested feature, even if the free update period has expired. Note that bug fixes and updates do not reset the free update period.
 
-If your free update period reaches start of the game maintenance, but expires before next maintenance, it is extended until next maintenance begins.
+If your free update period reaches the start of a game maintenance, but expires before the next maintenance, it will be extended until the start of the next maintenance.
 
-## Free updates exceptions
+## Free Update Exceptions
 Free updates will not be provided in the following situations:
-- System for which plugin was made received non-technical changes. For example, such as Summoner rework during patch 6.0;
-- If you request a plugin for another third party plugin, and that plugin is significantly reworked;
-- Commercially licensed plugin, unless a special deal has been made.
+- The system for which the plugin was created has received non-technical changes. For example, such as the Summoner revisions in Patch 6.0;
+- If you request a plugin for another third-party plugin, and that plugin is significantly reworked;
+- Commercial plugins, unless a special agreement has been made.
+
+## Free Updates for Patrons
+Patrons of Total Nightmare or higher will receive free updates of ALL their commissioned plugins as long as they remain subscribed for at least 11 out of 12 months per year since the plugin was completed. In addition, these updates are prioritized and can be done even before the Dalamud release version is available. 
+
+## Paid updates
+After the initial free update period has expired, an update fee of no more than 10% of the plugin cost will be charged.
+
+## Update request process and times
+To receive a free or paid plugin update, you must
+1. Make sure that the plugin is broken after a game or Dalamud update;
+2. Request an update via Discord.
+
+Normally, updates are provided within 7 days after the request is made or within 7 days after the Dalamud release version is published, whichever is later. If an update requires more time, you will be notified. 

@@ -31,7 +31,7 @@ callouts:
   warning:
     title: Warning
     color: red
-  normal:
+  open:
     title: "Commission status: Normal"
     color: green
   congested:

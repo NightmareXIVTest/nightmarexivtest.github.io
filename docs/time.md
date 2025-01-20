@@ -2,6 +2,7 @@
 title: Development times and pauses
 nav_order: 3
 ---
+# Development times and pauses
 ## Development times
 It is important to understand that due to the unpredictable nature of plugin development, it is not possible to guarantee exact development time. 
 

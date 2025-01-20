@@ -2,6 +2,7 @@
 title: Pricing and Payments
 nav_order: 2
 ---
+# Pricing and Payments
 
 ## Pricing
 The price depends on several factors, including

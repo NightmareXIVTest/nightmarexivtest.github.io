@@ -5,6 +5,15 @@ nav_order: 1
 ---
 Welcome to NightmareXIV! I'm happy to announce the official launch of plugin commissions. I've been doing them privately here and there, but now anyone can have a plugin made specifically for them - at an affordable price. 
 
+Commissions are currently open and development times are normal.
+{: .open }
+
+Commissions are currently open, but development times will be extended due to increased load.
+{: .congested }
+
+Commissions are currently closed. Only update requests or additional features for previously commissioned plugins are available. In addition, development times will be extended due to increased load.
+{: .closed }
+
 ## Why choose NightmareXIV
 - Development of plugins since 2020;
 - Large number of plugins created (browse here);

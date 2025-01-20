@@ -75,7 +75,7 @@ All prices are specified in United States Dollar (USD). If you use another curre
 ### Something else
 - If none of the following payment options work for you, please contact me and we will explore other options.
 
+## Important notes
 - Confirm transaction address and amount with me every time before making a payment. Do not randomly send arbitrary amounts of money without notice;
 - Do not add any extra notes or comments to the transaction unless explicitly asked to do so;
 - Please provide a screenshot of the transaction after completing it. 
-{: .important }

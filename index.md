@@ -36,7 +36,7 @@ Commissions are currently closed. Only update requests or additional features fo
 - General rule of thumb - 1 week for every 100 USD valued;
 - Contact me via Discord if you would like to receive an exact quote with price and time estimate;
 
-Read more about deadlines and possible development pauses here.
+Read more about development time and possible development pauses here.
 
 ## What about updating the plugin? 
 - I provide one year of free updates for the plugin in case it is broken due to a game or Dalamud update. 

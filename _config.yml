@@ -24,7 +24,7 @@ callouts:
     color: yellow
   important:
     title: Important
-    color: green
+    color: blue
   note:
     title: Note
     color: purple
@@ -32,11 +32,11 @@ callouts:
     title: Warning
     color: red
   normal:
-    title: Normal
+    title: "Commission status: Normal"
     color: green
   congested:
-    title: Congested
+    title: "Commission status: Congested"
     color: yellow
   closed:
-    title: Closed
+    title: "Commission status: Closed"
     color: red

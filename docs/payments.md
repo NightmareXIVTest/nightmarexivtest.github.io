@@ -1,5 +1,6 @@
 ---
 title: Pricing and Payments
+nav_order: 2
 ---
 
 ## Pricing
@@ -15,6 +16,15 @@ Please note that requesting additional features during or after development may 
 - **A relatively sophisticated plugin** with a modest amount of configuration and a decently complex UI will probably end up in the **200 USD to 450 USD range**. Plugins like Weatherman, NotificationMaster, HuntTrainAssistant, TextAdvance would land in this price range.
 - **Multi-functional, complex plugins** like Lifestream, XIVInstantMessenger or AutoRetainer, as they are now, will easily go well over **500 USD** and will require splitting the development process into several individual steps. Such plugins would be a multi-month commitment not only from the developer's side, but also from the requester's side.
 
+## Payment plans
+I offer the following payment plans:
+- **Full upfront.** Best for smaller works, less than 200 USD. 
+- **Split payment.** Best used for large works that can be divided into several logical steps. When using this payment plan, the cost of a plugin is divided into several parts, one of which must be paid in advance. As the development progresses, I will send you intermediate results and ask you to pay the next part. You will receive the source code of the plugin after the final payment.
+- **Payment after development.** Can be combined with split payment and is only available to regular customers. You will receive the source code after the final payment.
+
+I may ask you to delay the payment. It will not affect plugin development time. 
+{: .important }
+
 ## How to keep the costs down
 Here are some important tips and tricks to keep the price of the plugin affordable:
 - **Keep the UI simple.** While it may be tempting to ask for a fancy, complex UI, it can easily drive up development costs. Prioritize function over appearance and keep the UI simple - remember, you can always request an upgrade later, after you've used the plugin and decided if it's even necessary.
@@ -25,14 +35,14 @@ Here are some important tips and tricks to keep the price of the plugin affordab
 
 ## Supported payment systems
 
-| Payment system  | Min. payment          | Special note |
+| Payment system  | Special note | Min. payment |
 |:----------------|:------------------|:------|
-| Cryptocurrency | Any | **10% Discount** |
-| PayPal | 20 USD | Friends and Family only |
-| SWIFT/SEPA bank transfer | 200 USD |  |
-| Payoneer | 200 USD |  |
-| Skrill | 200 USD |  |
-| Contract | 500 USD |  |
+| Cryptocurrency | **10% Discount** | Any |
+| PayPal | Friends and Family only | 20 USD |
+| Payoneer | | 150 USD |
+| Skrill | | 150 USD |
+| SWIFT/SEPA bank transfer | | 200 USD |
+| Invoice | Must have Gmail | 500 USD |
 
 Don't see a payment system you can use in the list? Please contact me and we will see if we can find something else.
 
@@ -42,36 +52,30 @@ You may not use Patreon as a payment system for plugin commissions. Any custom p
 All prices are specified in United States Dollar (USD). If you use another currency, please be mindful of currency conversion rates and fees for your bank and payment system. Please use the <a href="https://www.xe.com/currencyconverter/convert/" target="_blank">Xe Currenty Converter</a> to find out how much you will have to pay using a different currency.
 {: .important }
 
-## Payment plans
-I offer the following payment plans:
-- **Full upfront.** Best for smaller orders, less than 200 USD. 
-- **Split payment.** Best used for large orders that can be divided into several logical steps. When using this payment plan, the cost of a plugin is divided into several parts, one of which must be paid in advance. As the development progresses, I will send you intermediate results and ask you to pay the next part. You will receive the source code of the plugin after the final payment.
-- **Payment after development.** Can be combined with split payment and is only available to regular customers. You will receive the source code after the final payment.
-
-I may ask you to delay the payment. It will not affect plugin development time. 
-{: .important }
-
 ## Notes on individual payment methods
 ### Cryptocurrency
-- If you choose to pay with cryptocurrency, I do not have to pay bank transaction fees, payment system fees and currency conversion fees, therefore I can offer you unconditional 10% discount on all payments; 
-- Prefer to use Litecoin to keep transaction costs low, although any popular currency is accepted;
-- To calculate how much cryptocurrency you need to send, please use the <a href="https://coinmarketcap.com/converter/" target="_blank">Coinmarketcap Converter</a> (or just ask before making a payment);
+- You automatically get **10% discount on all cryptocurrency payments**. This is because I do not have to pay bank transaction fees, payment system fees and currency conversion fees;
+- Prefer to use Litecoin (LTC) to keep transaction costs low, although any popular coin will be accepted;
+- To calculate how much cryptocurrency you need to send, please use the <a href="https://coinmarketcap.com/converter/" target="_blank">Coinmarketcap Converter</a> (or just ask before making a payment). Please also consider the transaction fees if you are not using Litecoin (LTC);
 - If you do not already have an account with a crypto exchange, prefer to choose one that is licensed in your country of residence, such as <a href="https://www.coinbase.com/legal/licenses" target="_blank">Coinbase</a>, <a href="https://www.binance.com/en/legal/licenses" target="_blank">Binance</a>, <a href="https://support.kraken.com/hc/en-us/articles/where-is-kraken-licensed-or-regulated" target="_blank">Kraken</a>, <a href="https://crypto.com/licenses" target="_blank">Crypto.com</a>.
 
 ### PayPal
-- **Only Friends and Family transactions are supported.** Note: Not all countries support Friends and Family transactions. If your country does not support it, you will not be able to use PayPal to pay for NightmareXIV services. 
+- **Only Friends and Family transactions are supported.** Note: Not all countries support Friends and Family transactions. If your country does not support it, you will not be able to use PayPal to pay for NightmareXIV services. Business accounts do not support Friends and Family transactions.
 
-### Payoneer, Skrill, SWIFT/SEPA
-- Currently available for orders of 200 USD or more.
+### Payoneer, Skrill
+- Currently available for transactions of 150 USD or more.
 
-### Contract
-- Available to Business Entities. An official contract is signed through a third party agency; you have the option to pay by credit card or bank transfer.
-- Currently available for orders of 500 USD or more.
+### SWIFT/SEPA bank transfer
+- Currently available for transactions of 200 USD or more.
+
+### Invoice
+- Available to Business Entities and Private Individuals. An invoice will be sent to you by a third party agency and you will need to provide your business details or your name and billing address. You will have the option to pay by credit card or bank transfer.
+- Currently available for transactions of 500 USD or more.
 
 ### Something else
-- If none of the following payment options apply to you, please contact me and we will explore other options.
+- If none of the following payment options work for you, please contact me and we will explore other options.
 
-{: .warning }
 - Confirm transaction address and amount with me every time before making a payment. Do not randomly send arbitrary amounts of money without notice;
 - Do not add any extra notes or comments to the transaction unless explicitly asked to do so;
-- If possible, please provide a screenshot of the transaction after completing it. 
+- Please provide a screenshot of the transaction after completing it. 
+{: .important }

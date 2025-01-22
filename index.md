@@ -1,7 +1,7 @@
 ---
 title: Summary
 layout: home
-nav_order: 1
+nav_order: 10
 ---
 Welcome to NightmareXIV! I'm happy to announce the official launch of plugin commissions. I've been doing them privately here and there, but now anyone can have a plugin made specifically for them - at an affordable price. 
 

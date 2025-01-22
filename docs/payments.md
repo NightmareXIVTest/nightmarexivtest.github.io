@@ -1,6 +1,6 @@
 ---
 title: Pricing and Payments
-nav_order: 2
+nav_order: 20
 ---
 # Pricing and Payments
 

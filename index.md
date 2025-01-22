@@ -27,7 +27,7 @@ Commissions are currently closed. Only update requests or additional features fo
 
 ## How much does it cost? How can I pay for it?
 - The minimum price is **60 USD**;
-- Most plugins end up in the range of **200 USD to 400 USD**;
+- Most plugins end up in the range of **200 USD to 450 USD**;
 - Contact me via Discord if you want to get an exact offer;
 
 <a href="/docs/payments.html">Read about supported payment methods and how to keep the cost of the plugin low here.</a>

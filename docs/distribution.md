@@ -1,5 +1,5 @@
 ---
-title: Plugin distribution
+title: Plugin Distribution
 nav_order: 50
 ---
 # Plugin Distribution
@@ -19,7 +19,7 @@ After the development is finished, you can
 - Links to NightmareXIV Patreon or other donation systems may be added.
 
 ## Request to publish plugin to NightmareXIV repository
-- Not all plugins can be published in the NightmareXIV repository. If this is important to you, please contact me in advance;
+- Not all plugins can be published in the NightmareXIV repository. If this is important to you, please ask me in advance;
 - Links to the NightmareXIV Patreon or other donation systems may be added.
 
 ## Request to publish the plugin in another third-party plugin repository

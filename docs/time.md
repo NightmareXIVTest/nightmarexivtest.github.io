@@ -1,17 +1,17 @@
 ---
-title: Development times and pauses
+title: Development Times and Pauses
 nav_order: 30
 ---
-# Development times and pauses
-## Development times
+# Development Times and Pauses
+## Development Times
 It is important to understand that due to the unpredictable nature of plugin development, it is not possible to guarantee exact development time. 
 
-However, the general rule is 1 week per every 100 USD evaluated during normal order status and is rarely exceeded. 
+However, the general rule is 1 week per every 100 USD evaluated during normal commission status and is rarely exceeded. 
 
-## Intermediate results
+## Intermediate Results
 During development, you will periodically receive intermediate results consisting of a plugin with partial functionality. You can choose to test them immediately or wait for the full release.
 
-## Expected development pauses
+## Expected Development Pauses
 Development is automatically paused and development times are automatically extended when these events occur:
 - **Game maintenance.** Development will resume the day after the maintenance ends.
 - **Release version of Dalamud is not available.** Development will resume the day after the release version becomes available.
@@ -21,7 +21,7 @@ Development is automatically paused and development times are automatically exte
 Listed times and pauses apply only to new plugins or new features. Times and pauses regarding existing plugin updates are outlined in the Update Policy section.
 {: .important }
 
-## Unexpected development pauses
+## Unexpected Development Pauses
 In case of natural disasters, illness, internet or PC problems, an unexpected pause may occur. In this case, I will provide some form of compensation, such as an extended free update period or free additional features.
 
 ## Testing

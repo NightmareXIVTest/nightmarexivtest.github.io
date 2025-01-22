@@ -1,4 +1,4 @@
 ---
-title: Non-plugin services
+title: Non-PSlugin Services
 nav_order: 999
 ---
